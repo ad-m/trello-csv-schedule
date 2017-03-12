@@ -1,0 +1,8 @@
+progress==1.2
+trello==0.9.1
+unicodecsv==0.14.1
+rfc3339==5
+iso8601==0.1.11
+python-dateutil==2.6.0
+pytz==2016.10
+
